@@ -1,0 +1,10 @@
+Respuestas 3.f:
+
+*¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+    No lo puedo ver porque el archivo fue creado en el branch Opcion_2 y al estar situado en el branch main no aparecia.
+
+*Vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
+    Noto que al volver a agregar un archivo al branch main, el branch Opcion_2 queda de lado en una linea diferente.
+
+*Luego utilice el comando gitk –all para ver los cambios, ¿Qué nota?
+    Al realizar el merge las lineas del branch main y Opcion_2 se unen.
